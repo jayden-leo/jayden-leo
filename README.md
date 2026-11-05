@@ -1,58 +1,58 @@
-![Jayden · AI Product Builder，从具体的问题出发](assets/jayden-banner.svg)
+![Jayden — AI Product Builder. Real problems. Practical products. 从真实问题出发，把想法做成产品。](assets/jayden-banner.svg?v=en-20261105)
 
-# Hi, I'm Jayden 👋
+# Hi, I'm Jayden.
 
-**我把创作和经营里的具体问题，做成软件与可复用的 AI 工作流。**
+**I turn everyday creative and business tasks into practical software and reusable AI workflows.**
 
-从自己的使用场景出发，梳理需求和操作过程，结合 AI 推进实现与验证，再把重复任务整理成方法。
+<p lang="zh-CN">我从自己的使用场景出发，把创作与经营中的具体问题，做成软件和可复用的工作流。</p>
 
-## Selected work · 精选作品
+## Selected work · <sub>精选作品</sub>
 
-<table>
+<table role="presentation">
 <tr>
 <td width="50%" valign="top">
-<a href="projects/solostudio/README.md"><img src="assets/solostudio.svg" width="100%" alt="一人片场：创作工作台功能示意"></a>
-<h3>一人片场 · SoloStudio</h3>
-<p>把稿件、制作方案和素材接起来的本地创作工作台。</p>
-<p><sub>本地迭代 · 内容工作台 / 版本接续</sub></p>
-<p><a href="projects/solostudio/README.md">查看一人片场案例 →</a></p>
+<a href="projects/solostudio/README.md"><img src="assets/solostudio.svg" width="100%" alt="Explore SoloStudio: a creative workspace concept diagram"></a>
+<h3>SoloStudio · <sub lang="zh-CN">一人片场</sub></h3>
+<p>A local workspace connecting scripts, production plans and creative assets.<br><sub lang="zh-CN">连接稿件、制作方案与素材的创作工作台。</sub></p>
+<p><sub>Local iteration · Version continuity</sub></p>
+<p><a href="projects/solostudio/README.md">Explore SoloStudio →</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="projects/solora/README.md"><img src="assets/solora.svg" width="100%" alt="己光：双语商城功能示意"></a>
-<h3>己光 · Solora</h3>
-<p>双语商品展示与经营后台，衔接商品、库存和订单。</p>
-<p><sub>已部署 · 购买与退款仍为测试支付</sub></p>
-<p><a href="projects/solora/README.md">查看己光案例 →</a></p>
+<a href="projects/solora/README.md"><img src="assets/solora.svg" width="100%" alt="Explore Solora: a bilingual storefront concept diagram"></a>
+<h3>Solora · <sub lang="zh-CN">己光</sub></h3>
+<p>A bilingual storefront with tools for products, inventory and orders.<br><sub lang="zh-CN">双语商品展示与经营后台。</sub></p>
+<p><sub>Deployed · Payments and refunds in test mode</sub></p>
+<p><a href="projects/solora/README.md">Explore Solora →</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="projects/daybound/README.md"><img src="assets/daybound.svg" width="100%" alt="拾光：照片成册功能示意"></a>
-<h3>拾光 · Daybound</h3>
-<p>把照片整理成可编辑、可逐页确认的画册与 PDF。</p>
-<p><sub>本地迭代 · 实物打样与完整履约待验</sub></p>
-<p><a href="projects/daybound/README.md">查看拾光案例 →</a></p>
+<a href="projects/daybound/README.md"><img src="assets/daybound.svg" width="100%" alt="Explore Daybound: an editable photo book concept diagram"></a>
+<h3>Daybound · <sub lang="zh-CN">拾光</sub></h3>
+<p>Turn photos into editable books and PDFs, reviewed page by page.<br><sub lang="zh-CN">把照片整理成可编辑、可逐页确认的画册。</sub></p>
+<p><sub>Local iteration · Physical fulfillment unverified</sub></p>
+<p><a href="projects/daybound/README.md">Explore Daybound →</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="workflows/README.md"><img src="assets/workflow.svg" width="100%" alt="本人整理的制片工作流职责示意"></a>
-<h3>AI 制片工作流</h3>
-<p>本人整理的六阶段制片流程，配合统筹与审核接续创作。</p>
-<p><sub>本人整理 · 六阶段 + 统筹 / 审核</sub></p>
-<p><a href="workflows/README.md">查看工作流 →</a></p>
+<a href="workflows/README.md"><img src="assets/workflow.svg" width="100%" alt="Explore AI Workflows: six production stages with coordination and review"></a>
+<h3>AI Workflows · <sub lang="zh-CN">制片工作流</sub></h3>
+<p>Six production stages I organized, supported by coordination and review.<br><sub lang="zh-CN">本人整理的六阶段流程，配合统筹与审核。</sub></p>
+<p><sub>Personally curated · Six stages + coordination / review</sub></p>
+<p><a href="workflows/README.md">Explore AI Workflows →</a></p>
 </td>
 </tr>
 </table>
 
-[浏览全部公开作品与工作流 →](projects/README.md)
+[All public work →](projects/README.md) · <sub lang="zh-CN">全部公开作品与工作流</sub>
 
-*配图为功能示意，非运行截图。详细能力与当前阶段见各案例。*
+<sub>Concept diagrams, not live screenshots. See each case for current scope and status.<br><span lang="zh-CN">配图为功能示意，实际能力与当前阶段见各案例。</span></sub>
 
-## How I work · 我的做法
+## How I build · <sub>我的做法</sub>
 
-- **从任务出发**：明确谁在什么场景下，需要完成哪件事。
-- **把流程做顺**：关注输入、编辑、确认、保存和失败后的继续操作。
-- **留下可接续的结果**：说明实际完成范围、有效版本与下一步。
+- **Start with a real task.** Define who needs to do what, and in which situation. <sub lang="zh-CN">从具体任务出发。</sub>
+- **Work through the whole flow.** Connect input, editing, confirmation, saving and recovery. <sub lang="zh-CN">把流程做顺。</sub>
+- **Make the next step clear.** Record what works, the current version and what remains. <sub lang="zh-CN">留下可接续的结果。</sub>
 
-我主导产品需求、交互取舍和工作流整理，结合 AI 辅助设计、开发与迭代。模型、工具和第三方素材按各自来源说明；安装的第三方 Skill 不计作本人作品。
+I lead product requirements, interaction decisions and workflow design, with AI assisting design, development and iteration. Third-party tools and materials are credited; installed skills are not presented as my own work.
 
-**I build practical software and reusable AI workflows, starting from everyday problems.**
+<sub lang="zh-CN">我主导产品需求、交互取舍与工作流整理，结合 AI 推进实现和迭代；第三方工具与素材按来源说明。</sub>
